@@ -113,7 +113,7 @@
 
 <h2 align="center">🏆 GitHub Trophies</h3>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=yuvraj-shishodia&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
 </div>
 
 <br>
