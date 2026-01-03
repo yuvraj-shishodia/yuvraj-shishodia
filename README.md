@@ -14,12 +14,12 @@
 </p>
 
 - 🔭 I'm currently working as a **SDE** at **YNV Solutions**.
-- 🌱 I'm currently exploring **exploring Advanced iOS Development & DevOps practices.**.
+- 🌱 I'm currently exploring **Advanced iOS Development & DevOps practices.**.
 - 👯 I'm looking to collaborate on **open-source projects and real-world web applications.**.
 - 📫 How to reach me: **yuvrajshishodia24@gmail.com**
 
 <br>
-<h2 align="center">Connect with Me</h3>
+<h2 align="center">Connect with Me</h2>
 <div align="center">
   <table>
     <tr>
@@ -43,7 +43,7 @@
 </div>
 <br>
 
-<h2 align="center">Languages and Tools</h3>
+<h2 align="center">Languages and Tools</h2>
 
 <table>
   <tr>
@@ -102,7 +102,7 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvraj-shishodia&theme=radical&hide_border=true&layout=compact" alt="Top Languages"/>
   <br><br> 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuvraj-shishodia" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuvraj-shishodia&theme=radical" alt="Repos per Language" />
   &nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuvraj-shishodia&theme=radical" alt="Most Commit Language" />
   <br><br>
@@ -111,7 +111,7 @@
 
 <br>
 
-<h2 align="center">🏆 GitHub Trophies</h3>
+<h2 align="center">🏆 GitHub Trophies</h2>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yuvraj-shishodia&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
 </div>
