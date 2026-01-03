@@ -96,15 +96,15 @@
 
 <br>
 
-<h2 align="center">📊 GitHub Stats</h3>
+<h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yuvraj-shishodia&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvraj-shishodia&theme=radical&hide_border=true&layout=compact" alt="Top Languages"/>
   <br><br> 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuvraj-shishodia" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuvraj-shishodia" alt="Repos per Language" />
   &nbsp;
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuvraj-shishodia&theme=radical" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuvraj-shishodia&theme=radical" alt="Most Commit Language" />
   <br><br>
   <img src="https://nirzak-streak-stats.vercel.app/?user=yuvraj-shishodia&theme=radical&hide_border=true" alt="GitHub Streak Stats">
 </div>
