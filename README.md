@@ -98,7 +98,7 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuvraj-shishodia&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yuvraj-shishodia&theme=radical&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvraj-shishodia&theme=radical&hide_border=true&layout=compact" alt="Top Languages"/>
   <br><br> 
