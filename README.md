@@ -5,8 +5,6 @@
 <h1 align="center">Hi 👋, I'm Yuvraj Shishodia</h1>
 <h3 align="center">A passionate Software Engineer & Full-Stack Developer from India</h3>
 
-
-
 <br>
 
 <p align="left">
