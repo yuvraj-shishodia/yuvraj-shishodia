@@ -96,10 +96,6 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuvraj-shishodia&theme=radical&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvraj-shishodia&theme=radical&hide_border=true&layout=compact" alt="Top Languages"/>
-  <br><br> 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuvraj-shishodia&theme=radical" alt="Repos per Language" />
   &nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuvraj-shishodia&theme=radical" alt="Most Commit Language" />
@@ -109,10 +105,6 @@
 
 <br>
 
-<h2 align="center">🏆 GitHub Trophies</h2>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yuvraj-shishodia&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
-</div>
 
 <br>
 
