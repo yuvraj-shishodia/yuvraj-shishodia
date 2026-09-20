@@ -100,7 +100,7 @@
   &nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuvraj-shishodia&theme=radical" alt="Most Commit Language" />
   <br><br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=yuvraj-shishodia&theme=radical&hide_border=true" alt="GitHub Streak Stats">
+  <img src="https://streak-stats.demolab.com/?user=yuvraj-shishodia&theme=radical&hide_border=true" alt="GitHub Streak Stats">
 </div>
 
 <br>
