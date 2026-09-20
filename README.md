@@ -76,18 +76,6 @@
 
 <br>
 
-<!-- ═══════════════ STATS ═══════════════ -->
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=yuvraj-shishodia&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-  <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuvraj-shishodia&theme=radical" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuvraj-shishodia&theme=radical" alt="Repos per Language" />
-</div>
-
-<br>
-
 <!-- ═══════════════ FOOTER ═══════════════ -->
 <p align="center">
   <i>Open to collaborating on open-source and real-world web apps. Let's build something. 🚀</i>
