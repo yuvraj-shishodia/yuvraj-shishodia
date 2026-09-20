@@ -1,30 +1,43 @@
-name: generate arcade contribution graphs
+name: build arcade profile
 
 on:
-  schedule: # runs automatically every 24 hours
+  schedule: # refreshes your contribution graph every day
     - cron: '0 0 * * *'
   workflow_dispatch: # lets you run it manually from the Actions tab
-  push: # runs whenever you push to main
+  push: # rebuilds whenever you commit a change (e.g. to arcade.config)
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
-  generate:
-    permissions:
-      contents: write
+  build:
     runs-on: ubuntu-latest
     timeout-minutes: 20
 
     steps:
-      - name: generate contribution graph SVGs
+      - name: checkout repo
+        uses: actions/checkout@v4
+
+      # reads arcade.config and prints the list of body games
+      - name: read arcade.config
+        id: cfg
+        run: python3 scripts/build_arcade.py games >> "$GITHUB_OUTPUT"
+
+      # generates the contribution-graph games into ./dist
+      - name: generate contribution graph games
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          # comma-separated game names, e.g. 'pacman,galaga'
-          games: 'pacman'
+          games: ${{ steps.cfg.outputs.games }}
 
-      # push the generated SVGs to the "output" branch
-      - name: push SVGs to the output branch
+      # builds the animated header and the body slots into ./dist
+      - name: build header and body slots
+        run: python3 scripts/build_arcade.py build
+
+      # publishes everything in ./dist to the "output" branch
+      - name: publish to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output

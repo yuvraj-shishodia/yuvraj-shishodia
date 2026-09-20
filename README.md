@@ -1,6 +1,6 @@
-<!-- ═══════════════ HEADER ═══════════════ -->
+<!-- ═══════════════ HEADER (game is chosen in arcade.config) ═══════════════ -->
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Yuvraj Shishodia - Software Engineer and Full-Stack Developer" />
+  <img src="https://raw.githubusercontent.com/yuvraj-shishodia/yuvraj-shishodia/output/header.svg" width="100%" alt="Yuvraj Shishodia - Software Engineer and Full-Stack Developer" />
 </p>
 
 <br>
@@ -63,28 +63,26 @@
 
 <br>
 
-<!-- ═══════════════ CONTRIBUTION ARCADE ═══════════════ -->
+<!-- ═══════════════ CONTRIBUTION ARCADE (games are chosen in arcade.config) ═══════════════ -->
 <h2 align="center">🕹 Contribution Arcade</h2>
 
+<!-- slot 1 -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuvraj-shishodia/yuvraj-shishodia/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuvraj-shishodia/yuvraj-shishodia/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man eating my GitHub contribution graph" src="https://raw.githubusercontent.com/yuvraj-shishodia/yuvraj-shishodia/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuvraj-shishodia/yuvraj-shishodia/output/body-1-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuvraj-shishodia/yuvraj-shishodia/output/body-1.svg">
+    <img alt="Game played on my GitHub contribution graph" src="https://raw.githubusercontent.com/yuvraj-shishodia/yuvraj-shishodia/output/body-1.svg">
   </picture>
 </p>
 
-<br>
-
-<!-- ═══════════════ STATS ═══════════════ -->
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=yuvraj-shishodia&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-  <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuvraj-shishodia&theme=radical" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuvraj-shishodia&theme=radical" alt="Repos per Language" />
-</div>
+<!-- slot 2 (stays empty unless you list two games in arcade.config) -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuvraj-shishodia/yuvraj-shishodia/output/body-2-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuvraj-shishodia/yuvraj-shishodia/output/body-2.svg">
+    <img alt="" src="https://raw.githubusercontent.com/yuvraj-shishodia/yuvraj-shishodia/output/body-2.svg">
+  </picture>
+</p>
 
 <br>
 
