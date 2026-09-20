@@ -13,16 +13,12 @@
   I enjoy simplifying complex problems into clean, intuitive solutions, and I'm always eager to learn and collaborate on impactful projects.
 </p>
 
-<div align="center">
-
-| | |
-|---|---|
-| 🔭 **Currently** | SDE at **YNV Solutions** |
-| 🌱 **Exploring** | **DevOps practices** |
-| 👯 **Looking to collaborate on** | **Open-source projects & real-world web applications** |
-| 📫 **Reach me** | [yuvrajshishodia24@gmail.com](mailto:yuvrajshishodia24@gmail.com) |
-
-</div>
+<table align="center">
+  <tr><td>🔭 <b>Currently</b></td><td>SDE at <b>YNV Solutions</b></td></tr>
+  <tr><td>🌱 <b>Exploring</b></td><td><b>DevOps practices</b></td></tr>
+  <tr><td>👯 <b>Looking to collaborate on</b></td><td><b>Open-source projects &amp; real-world web applications</b></td></tr>
+  <tr><td>📫 <b>Reach me</b></td><td><a href="mailto:yuvrajshishodia24@gmail.com">yuvrajshishodia24@gmail.com</a></td></tr>
+</table>
 
 <br>
 
